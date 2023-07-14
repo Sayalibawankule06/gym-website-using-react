@@ -1,0 +1,32 @@
+
+#sub{
+    position: absolute;
+    width: 283px;
+  height: 66px;
+    top: 714px;
+    left: 46px;
+    border-radius: 11px;
+      border: 3px solid #f05954;
+     background-color:#f05954;
+    
+    font-family: 'Noto Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    display: flex;
+    align-items:center;
+    text-align: center;
+    letter-spacing: -0.3px;
+    justify-content: center;
+    
+    color:#ffffff;
+  }
+  .container{
+      width: 375px;
+  height: 812px;
+  top: 700px;
+  left: 329px;
+ 
+  display: flex;
+  }
