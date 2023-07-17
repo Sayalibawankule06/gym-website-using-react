@@ -1,32 +1,76 @@
+.id{
+  width: 23.021728515625px;
+height: 13px;
+top: 10px;
+left: 30px;
+border: 2px;
+display: flex;
+}
 
-#sub{
-    position: absolute;
-    width: 283px;
-  height: 66px;
-    top: 714px;
-    left: 46px;
-    border-radius: 11px;
-      border: 3px solid #f05954;
-     background-color:#f05954;
-    
-    font-family: 'Noto Sans SC';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 35px;
-    display: flex;
-    align-items:center;
-    text-align: center;
-    letter-spacing: -0.3px;
-    justify-content: center;
-    
-    color:#ffffff;
-  }
-  .container{
-      width: 375px;
+.img{
+  width: 200px;
+height: 130.5877685546875px;
+top: 67px;
+left: 200px;
+
+justify-items: center;
+}
+input[type=text]{
+  width: 200px;
+height: 35px;
+top: 288px;
+left: 45px;
+
+}
+h5{
+  width: 200px;
+height: 27px;
+top: 579px;
+left: 38px;
+justify-content: center;
+display: flex;
+}
+.mass{
+  width: 114.08423614501953px;
+height: 26.703662872314453px;
+top: 632.3624877929688px;
+left: 170.32568359375px;
+
+
+
+
+}
+a{
+  width: 103px;
+height: 24px;
+top: 482px;
+left: 200px;
+
+}
+input[type=button]{
+  width: 200px;
+height: 35px;
+top: 427px;
+left: 38px;
+border-radius: 4px;
+background: #F54242;
+
+
+}
+body{
+  width: 375px;
   height: 812px;
   top: 700px;
   left: 329px;
- 
-  display: flex;
-  }
+  
+}
+h3{
+  width: 200px;
+height: 27px;
+top: 255px;
+left: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}

@@ -12,7 +12,7 @@ function Schedule() {
     <p>We create a workout according to demographic profile, activity level and interest</p>
     <div div class="container">
         <form class="" action="plan.html" >
-            <input id="sub" type="submit" name="" value="Start Training"/> 
+            <input id="sub" type="submit" name="" value="Start Training"onClick={()=>navigate("/plan")}/> 
          </form>
          
     </div>

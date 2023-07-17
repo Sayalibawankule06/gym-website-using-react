@@ -17,7 +17,7 @@ function Up() {
         <input type1 ="text" name="email" id="name" placeholder="Email"/>
         <input type2 ="text" name="pass" id="name" placeholder="Phone"/>
         <input type3 ="text" name="confirm pass" id="name" placeholder="Password"/>
-        <input type="button" onClick="location.href='gender.html'"value='Sign in'/>
+        <input type="button" value="Sign in"  onClick={()=>navigate("/gender")}/>
         <label class="container">
             <input type="checkbox" checked="checked"/>
             <span class="checkmark">By continuing you accept our Privacy Policy</span>

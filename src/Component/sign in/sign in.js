@@ -9,7 +9,7 @@ function Sign() {
     return (
      
        <div class=" container">
-        <img src="image/Group 216.png" alt="logo"/>
+        <img src="image/" />
     <h3>Sign in</h3>
     <form>
         <input type="text" name="Phone/Email" placeholder="Phone/Email"/>
@@ -17,7 +17,7 @@ function Sign() {
         <input type="button" value="Sign in"  onClick={()=>navigate("/up")}/>
         <div class="link"> <a  href="#">Forgot your password</a></div>
         <h5>Sign in with</h5>
-        <img src="image/Group.png" alt="logo"/>
+        <img src="image/Group.png"/>
         <h5>Didn't have an account ? <a href="sign up.js">Sign Up</a></h5>
         
     </form>
